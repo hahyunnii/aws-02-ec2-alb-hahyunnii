@@ -42,6 +42,11 @@ aws elbv2 describe-listeners --load-balancer-arn <alb-arn>
 - `user-data.sh`
 - request result table for repeated ALB calls
 
+## AWS CLI EC2 references
+- https://docs.aws.amazon.com/cli/latest/reference/ec2/
+- https://docs.aws.amazon.com/cli/v1/userguide/cli_ec2_code_examples.html
+- [https://docs.aws.amazon.com/cli/latest/reference/ec2/](https://docs.aws.amazon.com/cli/v1/userguide/cli-services-ec2-instances.html)
+
 ## Grading
 - Architecture correctness: 1.5
 - Validation quality (round-robin + failure): 1.0
